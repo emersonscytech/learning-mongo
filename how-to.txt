@@ -1,0 +1,11 @@
+/*
+
+use raceTracking; # create db
+
+raceTracking.trackers.insert({});
+
+db.raceAcrossBrazil.find().pretty() # find all
+db.raceAcrossBrazil.insertOne({ name: "" }) # insert
+db.raceAcrossBrazil.remove({}) # remove all
+
+*/
