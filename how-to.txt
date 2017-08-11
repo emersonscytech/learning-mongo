@@ -9,3 +9,6 @@ db.raceAcrossBrazil.insertOne({ name: "" }) # insert
 db.raceAcrossBrazil.remove({}) # remove all
 
 */
+
+# https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
+# https://docs.mongodb.com/v3.4/tutorial/install-mongodb-on-ubuntu/
